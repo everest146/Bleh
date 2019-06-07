@@ -1,4 +1,7 @@
 labels:
+  - name: doof
+    color: CC0000
+    description: works?
   - name: bug
     color: CC0000
     description: Ahhhhh! It's a spider!
