@@ -8,3 +8,6 @@ labels:
   - name: feature
     color: 336699
     description: Don't worry, this repo comes with a fly swatter
+  - name: Funny
+    color: 123456
+    description: Not
